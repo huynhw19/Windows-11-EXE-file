@@ -1,18 +1,47 @@
-# Windows-11-EXE-file
-Windows 11 files
+# Windows 11 EXE File
 
+<div align="center">
 
-This is a EXE file that works on windows.
+  <img src="https://img.shields.io/badge/Platform-Windows%2011-0078D6?style=for-the-badge&logo=microsoft" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Type-Installer-4B8BBE?style=for-the-badge" alt="Installer" />
+  <img src="https://img.shields.io/badge/Status-Example%20Project-FF6B6B?style=for-the-badge" alt="Example project" />
 
-How to install
-1. Open the file
-2. Click allow if possible
-3. Select language ( optional)
-4. Click next and choose where to place
-5. Click install and click finish
-6. Go to search bar
-7. Type what you search
-8. Open the app in administrator.
-   
+</div>
 
-   Please run in administrator to work.
+A simple Windows 11 installer project for running an application on Windows.
+
+## Overview
+
+This repository contains a Windows installer-style project for using an EXE on Windows 11. The goal is to provide a straightforward setup and usage example.
+
+## Installation Guide
+
+1. Download the EXE file.
+2. Open the file.
+3. If prompted, click Allow.
+4. Choose your preferred language if asked.
+5. Click Next.
+6. Select the installation location.
+7. Click Install.
+8. Click Finish.
+9. Open the Start menu and search for the application.
+10. Run it as Administrator for best compatibility.
+
+## Important
+
+> Run the application as Administrator to ensure it works correctly.
+
+## Notes
+
+- This repository is intended for simple Windows installer examples.
+- Some apps may require additional setup or compatibility checks.
+- Use caution when installing executable files from unknown sources.
+
+## Related Projects
+
+- Mobileconfig Example: https://github.com/huynhw19/MOBILECONFIG-EXAMPLE
+- Mobileconfig Website: https://github.com/huynhw19/Mobileconfig-website
+
+---
+
+Windows 11 files collection.
