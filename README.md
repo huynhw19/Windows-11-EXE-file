@@ -14,6 +14,14 @@ A simple Windows 11 installer project for running an application on Windows.
 
 This repository contains a Windows installer-style project for using an EXE on Windows 11. The goal is to provide a straightforward setup and usage example.
 
+## Related Pictures
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=900&q=80" width="320" alt="Windows computer setup" />
+  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" width="320" alt="Software installation and system configuration" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" width="320" alt="Computer screen with coding and setup work" />
+</div>
+
 ## Installation Guide
 
 1. Download the EXE file.
